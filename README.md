@@ -1,6 +1,6 @@
 
 # 📕 Subject
-- MACHINE LEARNING을 활용한 날씨와 야구의 연관성 
+: MACHINE LEARNING을 활용한 날씨와 야구의 연관성 
 
 ## 👉  _Background_
 - 기상 이변으로 인한 피해 (식량난 가중 , 수자원 고갈, 환경 악영향, 토지 사막화, 가뭄 및 홍수 피해) 증가
@@ -21,7 +21,6 @@
 ## 👉  _Development_ 
 <p>
  <img width="400" alt="Screen Shot 2022-05-01 at 5 53 22 PM" src="https://user-images.githubusercontent.com/59044882/166138934-b08ebc66-f186-44ae-a578-243f8cd33775.png">&nbsp
- 
 <img width="400" alt="Screen Shot 2022-05-01 at 5 55 20 PM" src="https://user-images.githubusercontent.com/59044882/166139006-b5de5918-fa63-4ba6-8593-345fec755fe5.png">
 </p>
 <p>
@@ -30,9 +29,11 @@
 </p>
 <p>
 <img width="400" alt="Screen Shot 2022-05-01 at 5 58 54 PM" src="https://user-images.githubusercontent.com/59044882/166139101-adb434e0-06fb-4082-8734-2070ca8338f5.png">&npsb
- 
+ <img width="530" alt="Screen Shot 2022-05-01 at 6 02 08 PM" src="https://user-images.githubusercontent.com/59044882/166139201-bcf47730-97fd-4dbe-932a-43dfb8150369.png">
 </p>
-
+<p>
+ <img width="528" alt="Screen Shot 2022-05-01 at 6 02 24 PM" src="https://user-images.githubusercontent.com/59044882/166139205-7fd5f2cb-d9a4-4f34-ac29-bb9bebd9f3b7.png">
+</p>
 ## 👉  _Preview Mockup_
 
 <img width="534" alt="Screen Shot 2022-05-01 at 5 56 16 PM" src="https://user-images.githubusercontent.com/59044882/166139028-da452c72-10c0-4fc6-af44-3f8856830db3.png">
