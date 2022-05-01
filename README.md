@@ -29,16 +29,19 @@
 </p>
 <p>
 <img width="400" alt="Screen Shot 2022-05-01 at 5 58 54 PM" src="https://user-images.githubusercontent.com/59044882/166139101-adb434e0-06fb-4082-8734-2070ca8338f5.png">&npsb
- <img width="530" alt="Screen Shot 2022-05-01 at 6 02 08 PM" src="https://user-images.githubusercontent.com/59044882/166139201-bcf47730-97fd-4dbe-932a-43dfb8150369.png">
+ <img width="400" alt="Screen Shot 2022-05-01 at 6 02 08 PM" src="https://user-images.githubusercontent.com/59044882/166139201-bcf47730-97fd-4dbe-932a-43dfb8150369.png">
 </p>
 <p>
- <img width="528" alt="Screen Shot 2022-05-01 at 6 02 24 PM" src="https://user-images.githubusercontent.com/59044882/166139205-7fd5f2cb-d9a4-4f34-ac29-bb9bebd9f3b7.png">
+ <img width="400" alt="Screen Shot 2022-05-01 at 6 02 24 PM" src="https://user-images.githubusercontent.com/59044882/166139205-7fd5f2cb-d9a4-4f34-ac29-bb9bebd9f3b7.png">
 </p>
-## 👉  _Preview Mockup_
 
+## 👉  _Preview Mockup_
 <img width="534" alt="Screen Shot 2022-05-01 at 5 56 16 PM" src="https://user-images.githubusercontent.com/59044882/166139028-da452c72-10c0-4fc6-af44-3f8856830db3.png">
 
 ## 👉  _Tools_
-- ORACLE DATABASE
+- Jupyter Notbook
+- HTML / CSS / JS / jQuery
 - ECLIPSE
-- MATLAB
+- ORACLE
+- FLASK
+- Crawling : Selenium & BeautifulSoup
