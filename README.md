@@ -20,7 +20,7 @@
 
 ## 👉  _Development_ 
 <p>
- <img width="400" alt="Screen Shot 2022-05-01 at 5 53 22 PM" src="https://user-images.githubusercontent.com/59044882/166138934-b08ebc66-f186-44ae-a578-243f8cd33775.png">&nbsp
+ <img width="400" alt="Screen Shot 2022-05-01 at 5 53 22 PM" src="https://user-images.githubusercontent.com/59044882/166138934-b08ebc66-f186-44ae-a578-243f8cd33775.png">
 <img width="400" alt="Screen Shot 2022-05-01 at 5 55 20 PM" src="https://user-images.githubusercontent.com/59044882/166139006-b5de5918-fa63-4ba6-8593-345fec755fe5.png">
 </p>
 
