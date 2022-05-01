@@ -37,7 +37,7 @@
  <img width="400" alt="Screen Shot 2022-05-01 at 6 02 24 PM" src="https://user-images.githubusercontent.com/59044882/166139205-7fd5f2cb-d9a4-4f34-ac29-bb9bebd9f3b7.png">
 </p>
 
-## 👉  _Preview Mockup_
+## 👉  _Preview_
 <img width="534" alt="Screen Shot 2022-05-01 at 5 56 16 PM" src="https://user-images.githubusercontent.com/59044882/166139028-da452c72-10c0-4fc6-af44-3f8856830db3.png">
 
 ## 👉  _Tools_
